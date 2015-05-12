@@ -1,0 +1,5 @@
+# .pairs - configuration for 'git pair'
+# place in project or home directory
+pairs:
+  mc: Marlena Compton
+  tb: Thomas Bukowski
